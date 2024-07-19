@@ -9,3 +9,7 @@ The meaning of my name comes from 2018. Don't question too much.
 [![](https://visitcount.itsvg.in/api?id=seekiiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/YOUR_USERNAME/seekiiz/blob/output/github-contribution-grid-snake.gif)
+
+
